@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="toolchain/pgo-profiles" name="platform_toolchain_pgo-profiles" remote="BlissOS" />
+  
+</manifest>  
